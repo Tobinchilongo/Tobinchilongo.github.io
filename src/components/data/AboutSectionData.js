@@ -38,12 +38,6 @@ export const aboutDetails = [
       extraTitle: ' - Self Employed',
       description: 'November 2021 - Current',
     },
-    {
-      id: 3,
-      title: 'Key Accounts Administrator',
-      extraTitle: ' - L&A Logistics',
-      description: 'November 2019 - December 2022',
-    },
   ],
   [
     {
