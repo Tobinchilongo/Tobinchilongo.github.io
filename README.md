@@ -7,7 +7,7 @@
 ![screenshot](Coming soon when available)
 
 ## Live Demo
-[Click here](https://tobinchilongo.github.io/Portfolio-Setup/)
+[Click here](https://my-portfolio-website2022.netlify.app/)
 
 Additional description about the project and its features.
 
