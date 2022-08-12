@@ -26,7 +26,8 @@ To get a local copy up and running follow these simple example steps.
 
 ### Install
 git clone https://github.com/Tobinchilongo/tobinchilongo.github.io.git
-cd Portfolio-Setup
+
+cd tobinchilongo.github.io
 
 ## Authors
 
