@@ -52,22 +52,22 @@ const Navbar = () => {
         </div>
         <ul className="navbar-social-icons-container">
           <li>
-            <a href="https://www.linkedin.com/in/hammas-saleem">
+            <a href="https://www.linkedin.com/in/tobin-chilongo/">
               <LinkedIn className="social-icon" />
             </a>
           </li>
           <li>
-            <a href="https://github.com/HAMMAS-SALEEM">
+            <a href="https://github.com/Tobinchilongo">
               <GitHub className="social-icon" />
             </a>
           </li>
           <li>
-            <a href="https://twitter.com/HammasSaleem4">
+            <a href="https://twitter.com/Tobin_Official">
               <Twitter className="social-icon" />
             </a>
           </li>
           <li>
-            <a href="https://angel.co/u/hammas-saleem">
+            <a href="https://angel.co/u/tobin-l-chilongo-jr">
               <AngelList className="social-icon" />
             </a>
           </li>
