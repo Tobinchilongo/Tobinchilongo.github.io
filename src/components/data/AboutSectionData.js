@@ -20,17 +20,17 @@ export const aboutDetails = [
     },
     {
       id: 3,
-      title: 'Professional',
+      title: 'Profession',
       extraTitle: '',
-      description: 'Remote Full-Stack Software Developer, Teamwork, Mentoring',
+      description: 'Remote-working, Teamwork, Collaboration, Communication & Mentoring',
     },
   ],
   [
     {
       id: 1,
-      title: 'Student (Mentor)',
+      title: 'Graguate (Full-Stack Web Developer)',
       extraTitle: ' - Microverse',
-      description: 'January 2022 - Current',
+      description: 'July 2022 - Graguated',
     },
     {
       id: 2,

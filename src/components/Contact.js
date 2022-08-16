@@ -5,7 +5,7 @@ import '../stylesheets/contact.css';
 const Contact = () => (
   <div className="contact-section">
     <h2 className="contact-page-title">
-      Hire Me.
+      Contact Me.
     </h2>
     <p className="contact-page-description">
       I am open to job opportunities and side projects. Connect with me via WhatsApp:

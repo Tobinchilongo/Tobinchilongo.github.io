@@ -5,7 +5,7 @@ import ProjectCard from './ProjectCard';
 import { projects } from './data/ProjectData';
 
 const Portfolio = () => {
-  const title = 'My Latest Project';
+  const title = 'My Recent Projects';
   const desc = 'Checkout my latest React and Rails projects';
 
   return (

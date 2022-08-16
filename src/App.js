@@ -17,10 +17,10 @@ const App = () => (
     <section id="about">
       <About />
     </section>
-    <section id="services">
+    <section id="portfolio">
       <Services />
     </section>
-    <section id="portfolio">
+    <section id="services">
       <Portfolio />
     </section>
     <section id="contact">

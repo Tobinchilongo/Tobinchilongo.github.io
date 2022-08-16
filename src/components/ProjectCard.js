@@ -10,7 +10,7 @@ const ProjectCard = ({
     <h3 className="large-heading">{title}</h3>
     <div className="project-buttons-container">
       <a href={liveLink} className="project-button project-button-live">See Live</a>
-      <a href={projectLink} className="project-button project-button-github">See Project</a>
+      <a href={projectLink} className="project-button project-button-github">See GitHub</a>
     </div>
     <div className="project-overlay"> </div>
   </div>

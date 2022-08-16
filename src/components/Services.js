@@ -5,8 +5,8 @@ import { services } from './data/ServicesData';
 import PageTitle from './PageTitle';
 
 const Services = () => {
-  const title = 'My Awesome Services';
-  const desc = "There are some good services, i'm providing. You would love to utilize each of them";
+  const title = 'My Technical Skill Set';
+  const desc = 'Below are the services I provide';
   return (
     <div className="services-page">
       <PageTitle title={title} desc={desc} />
